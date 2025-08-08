@@ -1,0 +1,25 @@
+{
+  "name": "journly",
+  "version": "1.0.0",
+  "description": "A journal tracking app for teenagers, privacy focused.\r Also, a cool lil notion explaining it [here](https://www.notion.so/Journly-249e5078b49380079012fb4a0f50155c)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Null-Austin-Industries/Journly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Null-Austin-Industries/Journly/issues"
+  },
+  "homepage": "https://github.com/Null-Austin-Industries/Journly#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
